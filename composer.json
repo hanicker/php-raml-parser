@@ -1,15 +1,19 @@
 {
-  "name": "alecsammon/php-raml-parser",
+  "name": "hanicker/php-raml-parser",
   "type": "library",
   "description": "A RAML parser built in php",
-  "homepage": "https://github.com/alecsammon/php-raml-parser",
+  "homepage": "https://github.com/hanicker/php-raml-parser",
   "license": "MIT",
 
   "authors": [
     {
       "name": "Alec Sammon",
       "email": "alec.sammon@googlemail.com"
-    }
+    },
+    {
+      "name": "Nicola Moretti",
+      "email": "info@nicolamoretti.com"
+    }    
   ],
 
   "autoload": {
